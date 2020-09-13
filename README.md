@@ -5,7 +5,7 @@ Pusan National University 2020 Graduation Assignment
 * Team Member: 201524517 윤태완, 201524599 최우성
 
 
-# 참고한 사이트
+# 참고 자료
 
 https://github.com/monologg/GoEmotions-Korean
 
