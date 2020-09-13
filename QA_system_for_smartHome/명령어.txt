@@ -1,0 +1,4 @@
+동작
+python run_goemotions.py --config_file koelectra-base.json
+테스트
+python test_pipeline.py
