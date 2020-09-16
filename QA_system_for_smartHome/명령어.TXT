@@ -1,0 +1,4 @@
+Run
+python run_smarthome.py --config_file koelectra-base.json
+Test
+python test_pipeline.py
